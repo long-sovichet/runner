@@ -1,4 +1,4 @@
-package foo;
+package dev.harry.runner;
 
 import org.springframework.stereotype.Component;
 
